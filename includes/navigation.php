@@ -15,24 +15,24 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                   <li>
+                <!--   <li>
                         <a href="about.php">About</a>
-                    </li>
+                    </li>-->
                     
                     <li>
-                        <a href="admin">Admin</a>
+                        <a href="admin">الادمن</a>
                     </li>
                        <li>
-                        <a href="products2.php">Product</a>
+                        <a href="products2.php">المنتج</a>
                     </li>
                     <li>
-                        <a href="login.php">Login</a>
+                        <a href="login.php">تسجيل الدخول</a>
                     </li>
                      <li>
-                        <a href="checkout.php">Checkout</a>
+                        <a href="checkout.php">سلة التسوق</a>
                     </li>
                     <li>
-                        <a href="contact.html">Contact</a>
+                        <a href="contact.html">اتصل بنا</a>
                     </li>
                    
                 </ul>

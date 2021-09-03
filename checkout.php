@@ -76,8 +76,9 @@ redirect("orders.php");
             $quantity = 1;
             foreach($_SESSION as $name => $value):?>
           <?php if(substr($name, 0, 8) == 'product_'){
-               $length = strlen($name - 8);
-                $id = substr($name, 8 , $length);
+               $length = strlen($name);
+                $len = $length - 8;
+                $id = substr($name, 8 , $len);
     
             $products = Product::find_by_id($id);
     ?>

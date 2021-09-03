@@ -96,8 +96,8 @@ $message = join("<br>", $photo->errors);
 
                             <div class="form-group">
 
-                                <input type="file" name="file" >
-                                
+<!--                                <input type="file" name="file" >
+-->
                             </div>
 
                             <input type="submit" name="submit" >

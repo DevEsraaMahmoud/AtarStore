@@ -1,9 +1,9 @@
-<?php 
+<?php
 
 
 
 
-function __autoload($class){
+/*function spl_autoload_register($class){
 
 $class = strtolower($class);
 
@@ -30,7 +30,7 @@ die("This file named {$class}.php was not found man....");
 
 }
 
-
+*/
 function redirect($location){
 
 

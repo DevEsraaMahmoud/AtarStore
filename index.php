@@ -206,8 +206,8 @@ echo "<li class='previous'><a href='index.php?page={$paginate->previous()}'>Prev
 
                     <div class="col-sm-4 col-lg-4 col-md-4">
                         <div class="thumbnail">
-               <div class="product-image"> 
-						<img class="home_page_photo img-responsive " src="admin/<?php echo $product->image_path_and_placeholder(); ?>" alt="" />
+               <div class="product-image hoverpr">
+					<figure><img class="home_page_photo img-responsive " src="admin/<?php echo $product->image_path_and_placeholder(); ?>" alt="" /></figure>
 						<span class="tag2 hot">
 							<?php echo $product->product_price; ?> L.E
 						</span> 
@@ -219,7 +219,7 @@ echo "<li class='previous'><a href='index.php?page={$paginate->previous()}'>Prev
                                 </h4>
                                    <div class="row">
 						<div class="col-md-6 col-sm-6 col-xs-6 cart"> 
-							<a href="cart.php?add=<?php echo $product->id; ?>" class="btn btn-primary">Add to cart</a>
+							<a href="cart.php?add=<?php echo $product->id; ?>" class="probtn btn btn-primary">اضافة الى سلة التسوق</a>
 						</div>
     						</div>
                                 <p class="text-center disc">   <?=$product->description; ?></p>

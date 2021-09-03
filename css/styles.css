@@ -23,15 +23,55 @@ color: #fff;
   left: 25%;
 
 }
+.navbar-inverse .navbar-nav>li>a {
+    color: #9d9d9d;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #101010;
+    margin-top: 10px;
+}
+.navbar-inverse .navbar-brand {
+    color: #9d9d9d;
+    font-size: 31px;
+    margin-top: 4px;
+
+}
+.probtn {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    margin-top: -11px;
+    margin-left: -15px;
+}
+
+.itembtn {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    margin-top: 14px;
+    margin-left: 34px;
+}
+.thumbnail .caption-full {
+    padding: 16px;
+    color: #333;
+    margin-left: 34px;
+}
+.mitem{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-left: 49px;
+    margin-right: -51px;
+}
 /*p{
    position: relative;
   top: 50%;
   left: 25%; 
 }*/
 
-p.text-center.disc {
+/*p.text-center.disc {
     margin: 8px -8px 11px;
-}
+}*/
 
 span.tag2.hot {
     position: absolute;
@@ -68,12 +108,46 @@ color: #fff;
 
 }*/
 
-img.logo {
+.hover01 figure img {
     vertical-align: middle;
     margin-left: 77px;
     margin-bottom: 25px;
     margin-top: 5px;
     border-radius: 83px;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+.hover01 figure:hover img {
+    -webkit-transform: scale(1.3);
+    transform: scale(1.2);
+}
+.hover02 figure img {
+
+    vertical-align: middle;
+    margin-left: 77px;
+    margin-bottom: 25px;
+    margin-top: 5px;
+    border-radius: 83px;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+.hover02 figure:hover img {
+    -webkit-transform: scale(1.3);
+    transform: scale(1.2);
+}
+.product-image figure img {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+.product-image figure:hover img {
+    -webkit-transform: scale(1.3);
+    transform: scale(1.22);
 }
 .carousel-control{
     position: none;
@@ -87,7 +161,7 @@ img.logo {
 .row {
     margin-right: -15px;
     margin-left: -15px;
-    margin-top: -10px;
+    margin-top: 15px;
 }
 .thumbnail img {
     width: 60%;
@@ -112,9 +186,18 @@ img.logo {
     background-color: #E1306C;
     margin-top: -71px;
     border-style: none;
-        margin-right: 5px;
+        /*
+        margin-right: 9px;
+        */
+
 }
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    font-size: 20px;
 }
+
 .panel-heading {
     padding: 10px 15px;
     border-bottom: 1px solid transparent;

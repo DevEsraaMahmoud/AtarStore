@@ -12,7 +12,7 @@
      <meta http-equiv="Content-Language" content="ar-sa">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-    <title>Blog Home - Start Bootstrap Template</title>
+    <title>Home - Start Shopping</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">

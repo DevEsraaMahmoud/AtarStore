@@ -185,6 +185,13 @@ public function image_path_and_placeholder() {
 
     }
     
+   public static function show_product_category_title($category_id){
+
+		global $database;
+
+find_by_query ("SELECT * FROM categories WHERE id = '{$category_id}' ");
+
+   }
     
 
 

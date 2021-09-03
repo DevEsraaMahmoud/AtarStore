@@ -33,7 +33,7 @@ $products = Product::find_by_category($_GET['category_id']);
 
 <div class="row">
 
-    <div class="col-md-7">
+    <div class=" mitem col-md-7">
       
        <img class="img-responsive" src="admin/<?php echo $product->image_path_and_placeholder(); ?>" width="400px" height="400px" alt="">
 
@@ -66,7 +66,7 @@ $products = Product::find_by_category($_GET['category_id']);
    
     <form action="">
         <div class="form-group">
-            <input type="submit" class="btn btn-primary" value="ADD TO CART">
+            <input type="submit" class="itembtn btn btn-primary" value="ADD TO CART">
         </div>
     </form>
 

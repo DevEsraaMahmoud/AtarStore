@@ -15,7 +15,7 @@ $products = Product::find_by_category($_GET['category_id']);
                
                <div class="col-md-3">
                 <!--<p class="lead text-center">العطار ستور</p>-->
-                <a href="index.php"><img class="logo" src="admin/images/20210531_200424_0000.png" width="150px" height="150px"></a>  
+                <a href="index.php" class="hover01"><figure><img class="" src="admin/images/20210531_200424_0000.png" width="150px" height="150px"></figure></a>
 
                 <div class="list-group">
                      <div class="container bootdey">

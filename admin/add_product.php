@@ -14,6 +14,7 @@ if(isset($_POST['create'])) {
 $product->product_name = $_POST['product_name'];
 $product->product_price =$_POST['product_price'];
 $product->description =$_POST['description'];
+$product->product_quantity =$_POST['product_quantity'];
 $product->category_id =$_POST['category_id'];
 $product->set_file($_FILES['product_image']);
 $product->upload_photo();
@@ -93,38 +94,43 @@ echo "Product uploaded sucessfully";
 
                            
 
-                           <div class="form-group">
+                           <div class="form-group pro">
                             <label for="product_name">اسم المنتج</label>
                             <input type="text" name="product_name" class="form-control" >
                                
                            </div>
-                             <div class="form-group">
+                             <div class="form-group pro">
                                 <label for="product_price">سعر المنتج</label>
                             <input type="text" name="product_price" class="form-control" >
                                
                            </div>
 
 
-                            <div class="form-group">
+                            <div class="form-group pro">
                                 <label for="description">الوصف </label>
                             <input type="text" name="description" class="form-control" >
                                
                            </div>
+                            <div class="form-group pro">
+                                <label for="description">الكمية </label>
+                            <input type="text" name="product_quantity" class="form-control" >
 
-                            <div class="form-group">
-                                <label for="category">الصنف</label>
+                           </div>
+
+                            <div class="form-group pro">
+                                
      <select name="category_id">
          <option>اختر صنف</option>
      <?php foreach($categories as $category): ?>
-    <option value="<?= $category->category_id; ?>"> <?= $category->name; ?></option>
+    <option value="<?= $category->id; ?>"> <?= $category->name; ?></option>
     <?php endforeach?>
-    </select>                            
+    </select>  <label for="category">الصنف</label>                             
                            </div>
                         
 
                             <div class="form-group">
                                 
-                                <input type="file" name="product_image" > صورة المنتج
+                                <input type="file" name="product_image"  > 
                                <input type="submit" name="create" class="btn btn-primary pull-right" >
                            </div>
 

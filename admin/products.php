@@ -5,6 +5,7 @@
 <?php 
 
 $products = Product::find_all();
+/*$categories = Category::find_all();*/
 
 
 
@@ -52,7 +53,7 @@ $products = Product::find_all();
 
                         <p class="bg-success"> <?php echo $message; ?></p>
 
-                            <a href="upload_product_photo.php" class="btn btn-primary">اضافة منتج</a>
+                            <a href="add_product.php" class="btn btn-primary">اضافة منتج</a>
 
 
                         <div class="col-md-12">
@@ -65,6 +66,7 @@ $products = Product::find_all();
                                         <th>اسم المنتج</th>
                                         <th>سعر المنتج</th>
                                         <th>الوصف</th>
+                                        <th> الكمية المتاحة</th>
                                         <th>الصنف</th>
                                     </tr>
                                 </thead>
@@ -91,8 +93,15 @@ $products = Product::find_all();
                                         </td>   
                                         <td><?php echo $product->product_price; ?></td>
                                        <td><?php echo $product->description; ?></td>
-                                       <td><?php echo $product->category_id; ?></td>
+                                       <td><?php echo $product->product_quantity; ?></td>
+
+                                       <td><?php
+                                           $pro_id = $product->category_id;
+                                           $category = Category::find_by_id($pro_id);
+
+                                           echo $category->name  ?></td>
                                        <td>
+
 <!--
 
                                         <a href="comment_product.php?id=<?php echo $product->id; ?>">

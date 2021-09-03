@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35f943e8-6dc4-4c2a-a733-c8585a2a301b" name="Default" comment="" />
+    <list default="true" id="35f943e8-6dc4-4c2a-a733-c8585a2a301b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/1614866092_2165-500x500.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/23bcc8dd20d95aa71d930c938560fee0.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/296.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/3cdfe28b44258250862146e62a28cd4a.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/450px-Chocolate_chips.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/561955_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/5fd9a9e2cd96387b88a43a01ac13d1ae2e162696.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/Cute-Kitten-Coloring-Page-766x1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/GMR_Rice_AdobeStock_64819529_E_Nov.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/Taybat-Apple-Cider-Vinegar-250ml.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/a3d266f9bdafd2ea9b8379132a0e58bd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/a9542a21deffce72c86a4a53824990b3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/cornyellow.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/domty.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/gulflipherbalinfusionshibiscusteabags20teabagsenv_-_925179-1549250-jpg.webp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/images (41).jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/images.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/item_L_22172685_29601160.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/item_XL_30621637_74bf720ed8b85.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/photo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/unnamed.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/uuu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/ÙƒØ±ÙŠÙ…Ø©-Ø´ÙƒÙˆÙ„Ø§ØªØ©-Ø¨ÙƒØ±ÙŠÙ…Ø©-Ø§Ù„Ø¨Ù†Ø¯Ù‚-1-ÙƒÙŠÙ„Ùˆ-Ø¬Ø±Ø§Ù….png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/Ù…Ø±Ø¨Ù‰.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/upload_product_photo.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/css/styles.css" afterPath="$PROJECT_DIR$/admin/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/includes/config.php" afterPath="$PROJECT_DIR$/admin/includes/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/includes/functions.php" afterPath="$PROJECT_DIR$/admin/includes/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/includes/header.php" afterPath="$PROJECT_DIR$/admin/includes/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/includes/init.php" afterPath="$PROJECT_DIR$/admin/includes/init.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/includes/product.php" afterPath="$PROJECT_DIR$/admin/includes/product.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/includes/side_nav.php" afterPath="$PROJECT_DIR$/admin/includes/side_nav.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/includes/top_nav.php" afterPath="$PROJECT_DIR$/admin/includes/top_nav.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/js/dropzone.js" afterPath="$PROJECT_DIR$/admin/js/dropzone.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/products.php" afterPath="$PROJECT_DIR$/admin/products.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/upload.php" afterPath="$PROJECT_DIR$/admin/upload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/checkout.php" afterPath="$PROJECT_DIR$/checkout.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/header.php" afterPath="$PROJECT_DIR$/includes/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/navigation.php" afterPath="$PROJECT_DIR$/includes/navigation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/side_nav.php" afterPath="$PROJECT_DIR$/includes/side_nav.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/item.php" afterPath="$PROJECT_DIR$/item.php" />
+    </list>
     <ignored path="Atar_store.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +66,46 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="Atar_store" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="add_product.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin/add_product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.5">
+              <caret line="117" column="33" selection-start-line="117" selection-start-column="33" selection-end-line="117" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/includes/header.php" />
+        <option value="$PROJECT_DIR$/admin/includes/header.php" />
+        <option value="$PROJECT_DIR$/admin/js/dropzone.js" />
+        <option value="$PROJECT_DIR$/admin/upload.php" />
+        <option value="$PROJECT_DIR$/admin/includes/side_nav.php" />
+        <option value="$PROJECT_DIR$/admin/includes/top_nav.php" />
+        <option value="$PROJECT_DIR$/includes/side_nav.php" />
+        <option value="$PROJECT_DIR$/includes/navigation.php" />
+        <option value="$PROJECT_DIR$/admin/includes/config.php" />
+        <option value="$PROJECT_DIR$/admin/includes/functions.php" />
+        <option value="$PROJECT_DIR$/admin/includes/init.php" />
+        <option value="$PROJECT_DIR$/checkout.php" />
+        <option value="$PROJECT_DIR$/admin/add_product.php" />
+        <option value="$PROJECT_DIR$/admin/products.php" />
+        <option value="$PROJECT_DIR$/item.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsBuildToolPackageJson" detection-done="true" />
@@ -57,6 +145,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -65,24 +154,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Atar_store" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Atar_store" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
@@ -98,21 +209,21 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25416037" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20801815" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -121,7 +232,356 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/admin/includes/photo.php</url>
+          <line>11</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/admin/add_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/includes/photo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/includes/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1628975652957" expanded="true" signature="3822:3880" placeholder="SELECT * FRO..${self::$db_table}..." />
+            <marker date="1628975652957" expanded="true" signature="4016:4068" placeholder="SELECT * FRO..categories..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/includes/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1628399086634" expanded="true" signature="1552:1595" placeholder="SELECT * FRO..${self::$db_table}..." />
+            <marker date="1628399086634" expanded="true" signature="2065:2108" placeholder="SELECT * FRO..${self::$db_table}..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/includes/category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/includes/comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1432202192000" expanded="true" signature="665:679" placeholder="SELECT * FRO..${self::$db_table}..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/includes/order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/photos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="102" column="38" selection-start-line="102" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/side_nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="128" selection-start-line="17" selection-start-column="128" selection-end-line="17" selection-end-column="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/navigation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.8064516">
+          <caret line="1256" column="5" selection-start-line="1256" selection-start-column="1" selection-end-line="1256" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.909091">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/css/dropzone.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.5454545">
+          <caret line="391" column="1" selection-start-line="391" selection-start-column="1" selection-end-line="391" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="93" column="19" selection-start-line="93" selection-start-column="19" selection-end-line="93" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/includes/side_nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.09091">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="24" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/includes/top_nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.1818182">
+          <caret line="7" column="82" selection-start-line="7" selection-start-column="82" selection-end-line="7" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/js/dropzone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="389" column="104" selection-start-line="389" selection-start-column="104" selection-end-line="389" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/includes/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4355717">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/includes/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.355717">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/navigation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.043557167">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/side_nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.043557167">
+          <caret line="17" column="128" selection-start-line="17" selection-start-column="128" selection-end-line="17" selection-end-column="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.043557167">
+          <caret line="102" column="38" selection-start-line="102" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/photos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/includes/photo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.6363637">
+          <caret line="8" column="126" selection-start-line="8" selection-start-column="122" selection-end-line="8" selection-end-column="126" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/includes/category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/includes/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30490017">
+          <caret line="7" column="107" selection-start-line="7" selection-start-column="97" selection-end-line="7" selection-end-column="107" />
+          <folding>
+            <marker date="1628399086634" expanded="true" signature="1552:1595" placeholder="SELECT * FRO..${self::$db_table}..." />
+            <marker date="1628399086634" expanded="true" signature="2065:2108" placeholder="SELECT * FRO..${self::$db_table}..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/includes/comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30490017">
+          <caret line="7" column="78" selection-start-line="7" selection-start-column="74" selection-end-line="7" selection-end-column="78" />
+          <folding>
+            <marker date="1432202192000" expanded="true" signature="665:679" placeholder="SELECT * FRO..${self::$db_table}..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/includes/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8711434">
+          <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/includes/order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34845734">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13974592">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/includes/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6533575">
+          <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="30.575758">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/products.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6932849">
+          <caret line="68" column="59" selection-start-line="68" selection-start-column="59" selection-end-line="68" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.69697">
+          <caret line="221" column="90" selection-start-line="221" selection-start-column="86" selection-end-line="221" selection-end-column="92" />
+          <folding>
+            <marker date="1629926700459" expanded="true" signature="510:530" placeholder="SELECT * FRO..photos..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6551724">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47912887">
+          <caret line="68" column="47" selection-start-line="68" selection-start-column="47" selection-end-line="68" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.090744">
+          <caret line="80" column="44" selection-start-line="80" selection-start-column="44" selection-end-line="80" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/includes/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.043557167">
+          <caret line="8" column="147" selection-start-line="8" selection-start-column="131" selection-end-line="8" selection-end-column="147" />
+          <folding>
+            <marker date="1628975652957" expanded="true" signature="3822:3880" placeholder="SELECT * FRO..${self::$db_table}..." />
+            <marker date="1628975652957" expanded="true" signature="4016:4068" placeholder="SELECT * FRO..categories..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/add_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.5">
+          <caret line="117" column="33" selection-start-line="117" selection-start-column="33" selection-end-line="117" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

@@ -67,6 +67,10 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
   box-shadow: none;
   border: 1px solid #f75757;
 }
+.pro {
+      text-align: right;
+
+}
 
 .form-control {
   box-shadow: none;
